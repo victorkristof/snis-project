@@ -3,5 +3,3 @@ This is the title
 This is the first paragraph.
 
 And here is a second one.
-
-I'm adding a third paragraph.
